@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🔭 Computer Scientist
-- 🌱 Learning web dev and devsecops
+- 🌱 Learning Data Science 
 - 📫 How to reach me: arosario.csda@gmail.com
